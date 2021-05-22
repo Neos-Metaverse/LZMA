@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LZMA", "LZMA.csproj", "{9978C6F2-5378-404B-9C70-3B0AC844D466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompressTest", "..\CompressTest\CompressTest.csproj", "{357A357E-5513-4758-85F5-121B852B02FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9978C6F2-5378-404B-9C70-3B0AC844D466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9978C6F2-5378-404B-9C70-3B0AC844D466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9978C6F2-5378-404B-9C70-3B0AC844D466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9978C6F2-5378-404B-9C70-3B0AC844D466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357A357E-5513-4758-85F5-121B852B02FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357A357E-5513-4758-85F5-121B852B02FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357A357E-5513-4758-85F5-121B852B02FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357A357E-5513-4758-85F5-121B852B02FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
